@@ -11,7 +11,7 @@ eval_dataset = nerf_synthetic
 eval_scenes = lego
 
 ### TRAINING
-N_rand = 1024
+N_rand = 768
 lrate_feature = 0.001
 lrate_gnt = 0.0005
 lrate_decay_factor = 0.5
